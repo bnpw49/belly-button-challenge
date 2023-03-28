@@ -13,13 +13,12 @@ Complete the following steps:
 
     * Use otu_labels as the hovertext for the chart.
 
-<<<<<<< HEAD
 
-![alt text](https://lh3.googleusercontent.com/zIaS79CqfAaJJwYKEKUjTOOvfqns6R7tX1n-lUMfd6ReSUJtkEVru53osNnsw006HyDnn7q4Fk-ZnQGETRtUpRpKjClOZvKs75v_KRjP6w)
-=======
+
+
     
 ![alt text](https://lh3.googleusercontent.com/16NQj3ScOj3qMi79V3wkzIoIKSsHxwSkJEnd9RTniMbaeRqhi-2BT_PfswrO_G5nh0uL-1sFHnChdQiF9rzqBdYfGInNYhvIumGrksD9)
->>>>>>> 78f3541 (updated README.md with new images)
+
 
 3. Create a bubble chart that displays each sample.
 
@@ -33,34 +32,24 @@ Complete the following steps:
 
     * Use otu_labels for the text values.
 
-<<<<<<< HEAD
-![alt text](https://lh3.googleusercontent.com/tcjOghAgOSlgREXbfOJi3ZTJmDo2tpWwmpOs9aVYuBe5b8zrpMOhGOMs-U_LYzspaJZ7aUom3dxHNqD7_s5ksYFvHi-HtXmhleyIoKquow)
-=======
-      ![alt text](https://lh3.googleusercontent.com/_-2MAGCqYMff13YnOY4aFvZUvuI8S0iksRedT1YiGLV7P857qQLRE22rY0OgbNKTkPi_S1GEMW9hi-oNCm9WD5k-IbEENcmcjgZtuE4)
->>>>>>> 78f3541 (updated README.md with new images)
 
+
+  ![alt text](https://lh3.googleusercontent.com/_-2MAGCqYMff13YnOY4aFvZUvuI8S0iksRedT1YiGLV7P857qQLRE22rY0OgbNKTkPi_S1GEMW9hi-oNCm9WD5k-IbEENcmcjgZtuE4)
+>
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-<<<<<<< HEAD
-    
-![alt text](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg" alt="alt text)
-=======
+
 
   ![alt text](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg)
->>>>>>> 78f3541 (updated README.md with new images)
+
 
     
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
  
-<<<<<<< HEAD
- ![alt text](https://lh3.googleusercontent.com/VpbEK3FoaTteZ2cmYGH9LxMmRJY4ktsoBR2ipaV0Ld6nmN5bBRhOyp5CKsh_-1rI94uIESrf2gtUcXMx4pe_G8Szp1KPSvbNGZ_JeokSg)
-
-=======
   ![alt text](https://lh3.googleusercontent.com/wExSt6cl06FZkR3wN2EEZWcxiOveRTC1QI6-CnXCGuiurFHLF2L_3dvubCJ0lh66210F3ZULUal2pIRAfmWpKPC4Zz9P11uwgJJUCMY)
->>>>>>> 78f3541 (updated README.md with new images)
 
 ## *Bonus* 
 The following task is advanced and therefore optional.
@@ -71,8 +60,4 @@ You will need to modify the example gauge code to account for values ranging fro
 
 Update the chart whenever a new sample is selected.
 
-<<<<<<< HEAD
-![alt text](https://lh3.googleusercontent.com/Dm9DHp8LOjyqewSOh0XF_faRE6fyPLwkvKBa8EQWEx0ZwOK3tZkxkKpoK3UNiofWN5-iozU8SqWy_aDl7CHTLEYm5Ql3ZXoJhIqOl75mNw)
-=======
 ![alt text](https://lh3.googleusercontent.com/BE-x7fQPn1KfGy2RMuF7NjK_tF3qq40WVopFheCtZGyq65ionUXnndcctqhmnMUR97EuJldGnUfGAkV8-9Ge1mvcBUtfQED58StlxZi5PA)
->>>>>>> 78f3541 (updated README.md with new images)
