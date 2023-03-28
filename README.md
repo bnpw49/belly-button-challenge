@@ -13,9 +13,8 @@ Complete the following steps:
 
     * Use otu_labels as the hovertext for the chart.
 
-    <p align="center"> 
 
-    ![alt text](https://lh3.googleusercontent.com/zIaS79CqfAaJJwYKEKUjTOOvfqns6R7tX1n-lUMfd6ReSUJtkEVru53osNnsw006HyDnn7q4Fk-ZnQGETRtUpRpKjClOZvKs75v_KRjP6w)
+![alt text](https://lh3.googleusercontent.com/zIaS79CqfAaJJwYKEKUjTOOvfqns6R7tX1n-lUMfd6ReSUJtkEVru53osNnsw006HyDnn7q4Fk-ZnQGETRtUpRpKjClOZvKs75v_KRjP6w)
 
 3. Create a bubble chart that displays each sample.
 
@@ -29,20 +28,20 @@ Complete the following steps:
 
     * Use otu_labels for the text values.
 
-      ![alt text](https://lh3.googleusercontent.com/tcjOghAgOSlgREXbfOJi3ZTJmDo2tpWwmpOs9aVYuBe5b8zrpMOhGOMs-U_LYzspaJZ7aUom3dxHNqD7_s5ksYFvHi-HtXmhleyIoKquow)
+![alt text](https://lh3.googleusercontent.com/tcjOghAgOSlgREXbfOJi3ZTJmDo2tpWwmpOs9aVYuBe5b8zrpMOhGOMs-U_LYzspaJZ7aUom3dxHNqD7_s5ksYFvHi-HtXmhleyIoKquow)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
     
-  <img src="https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg" alt="alt text">
+![alt text](https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg" alt="alt text)
 
     
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
  
-  ![alt text](https://lh3.googleusercontent.com/VpbEK3FoaTteZ2cmYGH9LxMmRJY4ktsoBR2ipaV0Ld6nmN5bBRhOyp5CKsh_-1rI94uIESrf2gtUcXMx4pe_G8Szp1KPSvbNGZ_JeokSg)
+ ![alt text](https://lh3.googleusercontent.com/VpbEK3FoaTteZ2cmYGH9LxMmRJY4ktsoBR2ipaV0Ld6nmN5bBRhOyp5CKsh_-1rI94uIESrf2gtUcXMx4pe_G8Szp1KPSvbNGZ_JeokSg)
 
 
 ## *Bonus* 
