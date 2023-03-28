@@ -35,15 +35,15 @@ Complete the following steps:
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-    <p align="center">
+    
   <img src="https://static.bc-edx.com/data/dl-1-2/m14/lms/img/hw03.jpg" alt="alt text">
-</p>
+
     
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
- <p align="center">
-  <img src="https://lh3.googleusercontent.com/VpbEK-3FoaTteZ2cmYGH9LxMmRJY4ktsoBR2ipaV0Ld6nmN5bBRhOyp5CKsh_-1rI94uIESrf2gtUcXMx4pe_G8Szp1KPSvbNGZ_JeokSg" alt="alt text">
-</p>
+ 
+  ![alt text](https://lh3.googleusercontent.com/VpbEK3FoaTteZ2cmYGH9LxMmRJY4ktsoBR2ipaV0Ld6nmN5bBRhOyp5CKsh_-1rI94uIESrf2gtUcXMx4pe_G8Szp1KPSvbNGZ_JeokSg)
+
 
 ## *Bonus* 
 The following task is advanced and therefore optional.
@@ -54,6 +54,4 @@ You will need to modify the example gauge code to account for values ranging fro
 
 Update the chart whenever a new sample is selected.
 
- <p align="center">
-  <img src="https://lh3.googleusercontent.com/Dm9DHp8LOjyqewSOh0XF_faRE6fyPLwkvKBa8EQWEx0ZwOK3tZkxkKpoK3UNiofWN5-iozU8SqWy_aDl7CHTLEYm5Ql3ZXoJhIqOl75mNw" alt="alt text">
-</p>
+![alt text](https://lh3.googleusercontent.com/Dm9DHp8LOjyqewSOh0XF_faRE6fyPLwkvKBa8EQWEx0ZwOK3tZkxkKpoK3UNiofWN5-iozU8SqWy_aDl7CHTLEYm5Ql3ZXoJhIqOl75mNw)
